@@ -2,6 +2,9 @@
 
 Unity3D Gamecredits inGame Payment Gateaway Api Plugin
 
+Download and Import the GamecreditsSampleScene.unity file.
+The Easiest Way to Build, Deploy powered Gamecredits Games on Unity3d.
+
 # Demo :
 ![alt text](https://raw.githubusercontent.com/GameUnity3D/gamecredits-unity3d/master/img/intro1.png)
 ![alt text](https://raw.githubusercontent.com/GameUnity3D/gamecredits-unity3d/master/img/intro2.png)
@@ -21,7 +24,7 @@ Unity3D Gamecredits inGame Payment Gateaway Api Plugin
 - Upload EasyGamecredits.php and QTCoreCalls.php to your codes subfolder on your Web Server from ../Assets/GameCoreWallets/UploadToWebServer.
 
 # Part II :
-- Open GamecreditsSampleScene.unity. https://github.com/GameUnity3D/gamecredits-unity3d/releases
+- Open GamecreditsSampleScene.unity file. https://github.com/GameUnity3D/gamecredits-unity3d/releases
 - Create a new Unity3D Project import assets.
 - Open GamecreditsSampleScene.unity
 
