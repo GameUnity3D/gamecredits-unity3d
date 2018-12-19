@@ -25,7 +25,7 @@ Unity3D Gamecredits inGame Payment Gateaway Api Plugin
 
 - Navigate to Main Camera check inspector :
 
-- Change : 
+- Change GameDemo Script : 
 - $Payment Url = your web server url with the codes subfolder
 - $UserName = Gamecredits RPC UserName
 - $PassWord = Gamecredits RPC PassWord
